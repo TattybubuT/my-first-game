@@ -28,7 +28,6 @@ board.addEventListener('click', event => {
     }
 })
 
-
 // // DEBUG
 // startGame();
 
